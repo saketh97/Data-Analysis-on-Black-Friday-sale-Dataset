@@ -8,4 +8,4 @@ This Project shows the Basic anaylsis process which a data analyst performs on a
 2. Black Fridy Analysis.ipynb => This file contains the pyhton code and visualisations which i performed in the process of analysis. You can open this file in Jupyter Notebook.
 3. Black Friday Analysis.pdf => This File is the pdf version of above ipynb file which shows the code and analysis performed.
 
-## Note: Please Have a look at the pdf to understand what the project describes.
+### Note: Please Have a look at the pdf to understand what the project describes.
